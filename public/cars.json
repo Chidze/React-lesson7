@@ -1,0 +1,7 @@
+[
+    { "id": 1, "make": "Acura", "model": "RDX", "year": 2010 },
+    { "id": 2, "make": "Honda", "model": "Civic", "year": 2019 },
+    { "id": 3, "make": "Citroen", "model": "C3", "year": 2010 },
+    { "id": 4, "make": "BMW", "model": "X3", "year": 2011 },
+    { "id": 5, "make": "Chrysler", "model": "Pacifica", "year": 2020 }
+  ]
